@@ -1,0 +1,3 @@
+# Welcome to the repository containing Power BI dashboards! 
+
+This repository houses a collection of interactive and insightful dashboards built using Power BI. The dashboards in this repository cover a wide range of topics. With a combination of charts, graphs, maps, and other visual elements, these dashboards provide a comprehensive view of the data, making it easier to identify key insights and take action.You can filter, slice, and drill down into the visualizations to analyze specific segments or time periods. The interactive features enable you to customize the views, compare different metrics, and dig deeper into the underlying data.
